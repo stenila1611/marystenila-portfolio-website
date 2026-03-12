@@ -71,8 +71,9 @@ export default function Hero() {
                 View My Work
               </a>
               <a
-                href="/mary-stenila-resume.pdf"
-                download="Mary_Stenila_Resume.pdf"
+            
+                href="https://drive.google.com/uc?export=download&id=1BAti1ncR4RdOPaqLwOOpHqB9yIey05Br"
+                target="_blank"
                 className="inline-flex items-center justify-center gap-2 px-5 sm:px-6 py-3 border-2 border-[#14b8a6] text-[#14b8a6] font-semibold rounded-lg hover:bg-[#14b8a6]/10 transition-colors text-sm sm:text-base"
               >
                 <Download size={18} />
