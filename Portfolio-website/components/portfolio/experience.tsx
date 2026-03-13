@@ -10,13 +10,13 @@ const experiences = [
     bullets: [
       "Developed an interactive Story Map for Jamshedpur for Tata Steel, using ArcGIS tools for geospatial visualization and data-driven storytelling.",
       "Led migration of a large-scale GIS desktop application from Java Swing to JavaFX and from ArcGIS Core to ArcGIS Runtime, integrating two modules for the BEL Ghaziabad defense project – Battlefield Surveillance System (BSS). Improved UI responsiveness, system compatibility, and long-term maintainability.",
-      "Designed and developed key features for a GIS-based Android application OCWGIS using .NET MAUI (published on Google Play Store). Implemented functionalities including photo geotagging, location-based search, feature search, authentication APIs, routing tools with Google Maps integration, and multiple performance-related bug fixes.",⁠
+      "Designed and developed key features for a GIS-based Android application OCWGIS using .NET MAUI (published on Google Play Store). Implemented functionalities including photo geotagging, location-based search, feature search, authentication APIs, routing tools with Google Maps integration, and multiple performance-related bug fixes.",
       "Provided GIS and .NET WPF development support for BEL Bangalore – Shakti Project (Defense Domain | GIS & .NET WPF).",
       "Designed and delivered defense-specific GIS tools including Crest Check (natural, user-defined, safe corridor crests), Color Elevation, Gun Density, Gun Status Editor, Diagrammatic Fire Plan, MFDT, LOS Profile Graph, and enhanced Coordinate Converter using .NET WPF and ArcGIS.",
       "Built reusable modules for Identify, User Layer, and Spatial Feature Query tools, along with standalone classes for GPK services and graphic overlay management, reducing code repetition and improving maintainability.",
       "Resolved critical technical challenges including WPF–WinForms rendering conflicts, 3D visualization performance bottlenecks, thread management issues, mosaic dataset generation, and improved docking/window management.",
       "Implemented Log4Net GIS logging, optimized 2D–3D rendering pipelines, captured client requirements and UI workflows, conducted unit testing across analysis modules, and provided post-deployment support; received Technovator Award for contributions to the Shakti project.",
-⁠      "Presented a developer session on 'Native Maps SDK: Advancements in 3D Visualization', covering 3D GIS layers including I3S Scene Layers, Integrated Mesh, and 3D Tiles, along with surface placement, filtering, and spatial analysis capabilities.",
+      "Presented a developer session on Native Maps SDK: Advancements in 3D Visualization, covering 3D GIS layers including I3S Scene Layers, Integrated Mesh, and 3D Tiles, along with surface placement, filtering, and spatial analysis capabilities.",
     ],
   },
   {
