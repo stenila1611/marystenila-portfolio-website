@@ -54,7 +54,7 @@ export default function Hero() {
             {/* Taglines */}
             <div className="space-y-2 animate-fade-in-left" style={{ animationDelay: "200ms" }}>
               <p className="text-lg sm:text-xl md:text-2xl text-[#14b8a6] font-medium text-balance">
-                I build the software that makes maps intelligent.
+                Passionate about solving problems with code.
               </p>
               <p className="text-xs sm:text-sm md:text-base text-[#94a3b8]">
                 Production .NET applications | ArcGIS SDK | 3+ years at Esri India
