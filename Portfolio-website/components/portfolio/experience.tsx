@@ -92,7 +92,7 @@ export default function Experience() {
                       {exp.bullets.map((bullet, bIndex) => (
                         <li key={bIndex} className="flex gap-2 sm:gap-3 text-[#94a3b8] text-xs sm:text-sm leading-relaxed">
                           <span className="text-[#14b8a6] mt-1 flex-shrink-0">→</span>
-                          <span dangerouslySetInnerHTML={{ __html: bullet }} />
+                          <span>{bullet}</span>
                         </li>
                       ))}
                     </ul>
