@@ -72,7 +72,7 @@ export default function Hero() {
               </a>
               <a
             
-                href="https://drive.google.com/uc?export=download&id=1BAti1ncR4RdOPaqLwOOpHqB9yIey05Br"
+                href="https://drive.google.com/uc?export=download&id=1oiWlyQs_fjYnF15J-Kf36fRqsamqMQTC"
                 target="_blank"
                 className="inline-flex items-center justify-center gap-2 px-5 sm:px-6 py-3 border-2 border-[#14b8a6] text-[#14b8a6] font-semibold rounded-lg hover:bg-[#14b8a6]/10 transition-colors text-sm sm:text-base"
               >
